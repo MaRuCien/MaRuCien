@@ -12,7 +12,10 @@ This year I decided to make some changes, so I started a Full Stack Developer Bo
 And I am currently loving it!  
 
 
+
 This is me every time I understand the code lol
+
+
 
 <img width="250" src="https://media.giphy.com/media/40vYwtIa1nHEmEECmg/giphy-downsized-large.gif">
 
@@ -21,7 +24,7 @@ This is me every time I understand the code lol
 - 🌱 I’m currently learning various programming languages! such as Python and JavaScript! 😄
 - 😄 Pronouns: she/her
 
--->
+
 
 
 Please, be kind! 😄
@@ -30,3 +33,5 @@ Please, be kind! 😄
 Check out my repos ⬇️  
   </samp>
 </p>
+
+
