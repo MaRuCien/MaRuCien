@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Maria 
+Welcome to my Github!
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/3o7TKNOYAv36eKJJra/giphy.gif">
