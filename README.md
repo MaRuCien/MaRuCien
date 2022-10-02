@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**MaRuCien/MaRuCien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <iframe src="https://giphy.com/embed/3o7TKNOYAv36eKJJra" width="480" height="457" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/happy-rainbow-colorful-3o7TKNOYAv36eKJJra">via GIPHY</a></p>>
+</p>
 
 Here are some ideas to get you started:
 
