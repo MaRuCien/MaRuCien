@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="250" src="https://giphy.com/gifs/happy-rainbow-colorful-3o7TKNOYAv36eKJJra">
+  <img width="250" src="https://media.giphy.com/media/3o7TKNOYAv36eKJJra/giphy.gif">
 </p>
 
 Here are some ideas to get you started:
