@@ -5,6 +5,11 @@ Welcome to my Github!
   <img width="250" src="https://media.giphy.com/media/3o7TKNOYAv36eKJJra/giphy.gif">
 </p>
 
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
