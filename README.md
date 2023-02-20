@@ -27,9 +27,10 @@ This is me every time I understand the code lol
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaRuCien&show_icons=true&theme=synthwave)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRuCien&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 Please, be kind! 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRuCien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><samp>
 Check out my repos ⬇️  
