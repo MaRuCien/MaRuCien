@@ -8,8 +8,8 @@ Welcome to my Github!
 
 
 
-This year I decided to make some changes, so I started a Full Stack Developer Bootcamp at 4Geeks Academy!
-And I am currently loving it!  
+Last year I decided to make some changes, so I started a Full Stack Developer Bootcamp at 4Geeks Academy! 😄
+I loved all the knowledge I got there. Now, I am in my way to learn more! 😄
 
 
 
@@ -24,10 +24,10 @@ This is me every time I understand the code lol
 - 🌱 I’m currently learning various programming languages! such as Python and JavaScript! 😄
 - 😄 Pronouns: she/her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaRuCien&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaRuCien&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRuCien&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRuCien&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Please, be kind! 😄
 
